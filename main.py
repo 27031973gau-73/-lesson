@@ -1,6 +1,5 @@
-example='Тaпинамбур'
-print(example[0])
-print(example[-1])
-print(example[5:])
-print(example[::-1])
-print(example[1:11:2])
+print(len('gladiator'))
+print((1+2)), print(1-2)
+print((1+2+3)/3)
+print("понедельник,вторник")
+print((((3*2)+(3*4))**3)/2) or print(((3*2+3*4)**3)/2)
