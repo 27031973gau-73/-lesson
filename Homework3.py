@@ -1,8 +1,8 @@
-name = "Name: Alexandr"
-print(name)
-age = "Age: 51"
-print(age)
-age = "New Age: 16"
-print(age)
-is_student = "Is_student: True"
-print(is_student)
+name = "Alexandr"
+print("Name: " + name)
+age = 51
+print("Age:", age)
+age += 1
+print("New Age: ", age)
+is_student = "True"
+print('Is_student: ' + is_student)
